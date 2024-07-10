@@ -1,21 +1,4 @@
-[![Contributors][nest-contributors-shield]][nest-contributors]
-[![Forks][nest-forks-shield]][nest-forks]
-[![Stargazers][nest-stars-shield]][nest-stars]
-[![Issues][nest-issues-shield]][nest-issues]
-[![MIT License][nest-license-shield]][license]
 
-[![NestJs][nestjs-shield]][ref-nestjs]
-[![NodeJs][nodejs-shield]][ref-nodejs]
-[![Typescript][typescript-shield]][ref-typescript]
-[![MongoDB][mongodb-shield]][ref-mongodb]
-[![JWT][jwt-shield]][ref-jwt]
-[![Jest][jest-shield]][ref-jest]
-[![Yarn][yarn-shield]][ref-yarn]
-[![Docker][docker-shield]][ref-docker]
-
-# Complete NestJs Boilerplate  🔥 🚀
-
-> This repo will representative of authentication service and authorization service
 
 [Complete NestJs][nest] is a [Http NestJs v9.x][ref-nestjs] boilerplate. Best uses for backend service.
 
@@ -292,7 +275,7 @@ The recommended version is the LTS version for every tool and package.
 Clone the project with git.
 
 ```bash
-git clone https://github.com/rabbit9921/nestjs-boilerplate.git.git
+git clone https://github.com/fedi-dayeg/complete-nestjs-boilerplate.git
 ```
 
 ### Install Dependencies
@@ -451,8 +434,6 @@ If your code behind commit with the original, please update your code and resolv
 * If there a new service in CommonModule. Make sure to create the unit test in `/test/unit`.
 * If there a new controller, make sure to create the e2e testing in `test/e2e`
 
-## Contact
-
 
 
 <!-- BADGE LINKS -->
@@ -477,13 +458,13 @@ If your code behind commit with the original, please update your code and resolv
 
 
 <!-- Repo LINKS -->
-[nest-issues]: https://github.com/rabbit9921/nestjs-boilerplate.git/issues
-[nest-stars]: https://github.com/rabbit9921/nestjs-boilerplate.git/stargazers
-[nest-forks]: https://github.com/rabbit9921/nestjs-boilerplate.git/network/members
-[nest-contributors]: https://github.com/rabbit9921/nestjs-boilerplate.git/graphs/contributors
+[nest-issues]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate/issues
+[nest-stars]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate/stargazers
+[nest-forks]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate/network/members
+[nest-contributors]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate/graphs/contributors
 
 <!-- Other Repo Links -->
-[nest]: https://github.com/rabbit9921/nestjs-boilerplate.git
+[nest]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate
 
 
 <!-- license -->
