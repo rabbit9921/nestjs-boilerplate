@@ -13,9 +13,9 @@ export class AuthController {
     console.log(params);
     return `This action returns a #${params.id} cat`;
   }
-  @Get()
+  @Get("query")
   find(@Query("id") id?:string) {
-    console.log(id);
+    console.log(id,"id");
     return `This action returns a #${id} cat`;
   }
 }
