@@ -292,7 +292,7 @@ The recommended version is the LTS version for every tool and package.
 Clone the project with git.
 
 ```bash
-git clone https://github.com/fedi-dayeg/complete-nestjs-boilerplate.git
+git clone https://github.com/rabbit9921/nestjs-boilerplate.git.git
 ```
 
 ### Install Dependencies
@@ -453,10 +453,7 @@ If your code behind commit with the original, please update your code and resolv
 
 ## Contact
 
-[Fedi DAYEG][author-email]
 
-[![Github][github-shield]][author-github]
-[![LinkedIn][linkedin-shield]][author-linkedin]
 
 <!-- BADGE LINKS -->
 [nest-contributors-shield]: https://img.shields.io/github/contributors/fedi-dayeg/complete-nestjs-boilerplate?style=for-the-badge
@@ -477,19 +474,16 @@ If your code behind commit with the original, please update your code and resolv
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-<!-- CONTACTS -->
-[author-linkedin]: https://www.linkedin.com/in/fedi-dayeg-a330b6131/
-[author-email]: mailto:fedi.dayeg@gmail.com
-[author-github]: https://github.com/fedi-dayeg
+
 
 <!-- Repo LINKS -->
-[nest-issues]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate/issues
-[nest-stars]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate/stargazers
-[nest-forks]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate/network/members
-[nest-contributors]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate/graphs/contributors
+[nest-issues]: https://github.com/rabbit9921/nestjs-boilerplate.git/issues
+[nest-stars]: https://github.com/rabbit9921/nestjs-boilerplate.git/stargazers
+[nest-forks]: https://github.com/rabbit9921/nestjs-boilerplate.git/network/members
+[nest-contributors]: https://github.com/rabbit9921/nestjs-boilerplate.git/graphs/contributors
 
 <!-- Other Repo Links -->
-[nest]: https://github.com/fedi-dayeg/complete-nestjs-boilerplate
+[nest]: https://github.com/rabbit9921/nestjs-boilerplate.git
 
 
 <!-- license -->
